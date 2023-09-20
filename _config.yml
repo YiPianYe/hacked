@@ -2,8 +2,8 @@
 # as long as the json variables name and description are provided
 title: Hacked Jekyll
 description: Jekyll microtheme that looks like JSON
-baseurl: ""
-url: https://hacked-jekyll.netlify.app
+baseurl: "/hacked"
+url: https://icp.me
 
 # this information is shown on the homepage, all fields are optional and
 # can be declared either as a single string or as a string array/hash
